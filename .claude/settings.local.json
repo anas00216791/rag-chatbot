@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(if [ -f \".specify/scripts/bash/create-phr.sh\" ])",
+      "Bash(then echo \"exists\")",
+      "Bash(else echo \"not found\")",
+      "Bash(fi)",
+      "Bash(git config:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
