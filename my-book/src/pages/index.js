@@ -16,7 +16,7 @@ function Hero() {
         <div className={styles.heroButtons}>
           <Link
             className="button button--primary button--lg"
-            to="/signup">
+            >
             Start Learning
           </Link>
         </div>

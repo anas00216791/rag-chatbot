@@ -120,17 +120,17 @@ export default function Contact() {
           <div className={styles.socialSection}>
             <h2>Connect With Us</h2>
             <div className={styles.socialLinks}>
-              <a href="#" className={styles.socialButton}>
+              <a href="https://github.com/anas00216791/New-Book/" className={styles.socialButton}>
                 GitHub
               </a>
-              <a href="#" className={styles.socialButton}>
+              <a href="https://x.com/AnasTariq744860" className={styles.socialButton}>
                 Twitter
               </a>
-              <a href="#" className={styles.socialButton}>
+              <a href="https://www.linkedin.com/in/anas-tariq-147b722b6/" className={styles.socialButton}>
                 LinkedIn
               </a>
-              <a href="#" className={styles.socialButton}>
-                Discord
+              <a href="https://www.youtube.com/watch?v=0_PNX2k3Fr8&t=102s" className={styles.socialButton}>
+                YouTube
               </a>
             </div>
           </div>
